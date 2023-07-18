@@ -131,7 +131,7 @@ const Home: NextPage = () => {
           </div>
         </a>
         <span>
-          <a href="https://mino9421.github.io/Armen_portfolio/">🐦 Chirp Blue</a>
+          <a href="https://mino9421.github.io/Armen_portfolio/">DeeZ 🥜🥜</a>
         </span>
       </div>
     </PageLayout>
