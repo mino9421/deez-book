@@ -27,14 +27,15 @@ To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the fo
 
 You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
 
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
-
+## How did I deploy this?
 ### I used vercel for this project
+
+## Theo posted guides to how to deploy with other providers
+
+Follow deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
 
 Go on and sign-in, you can autheticate with your github with one click and post there as much as you want.
 
-[DeeZ 🥜]([https://clerk.com/](https://deez-book.vercel.app/)https://deez-book.vercel.app/)
+[DeeZ]([https://clerk.com/](https://deez-book.vercel.app/)https://deez-book.vercel.app/)
 
 Happy Spamming!
