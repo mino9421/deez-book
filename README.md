@@ -33,4 +33,6 @@ Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/ver
 
 ### I used vercel for this project
 
-Go on and join in 
+Go on and sign-in, you can autheticate with your github with one click and post there as much as you want.
+
+Happy Spamming!
