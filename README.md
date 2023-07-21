@@ -35,4 +35,6 @@ Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/ver
 
 Go on and sign-in, you can autheticate with your github with one click and post there as much as you want.
 
+[DeeZ 🥜]([https://clerk.com/](https://deez-book.vercel.app/)https://deez-book.vercel.app/)
+
 Happy Spamming!
